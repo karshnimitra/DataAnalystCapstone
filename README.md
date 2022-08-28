@@ -1,1 +1,3 @@
-The Labs and the Dashboards creatd using Cognos for the IBM Data Analyst Capstone Project (the final course in the Data Analyst Professional Certification by IBM)
+Exploratory Data Analysis on StackOverflow Data consisting of survey responses to gain insights on future job trends.
+
+Data provided by IBM
